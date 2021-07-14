@@ -229,7 +229,7 @@ h1{
 /* mobile responsive section */
 @media only screen and (max-width:688px) {
     body{
-        margin: 0 auto;
+        margin: 0;
     }
     .section-one{
         grid-template-columns: repeat(1, 1fr);
@@ -264,34 +264,39 @@ h1{
             padding: 0 auto;
         }
         .point-bord {
-            text-align: center;
-            box-shadow: 5px 10px 40px #dedbdb;
-            padding: 3%;
-            width: 40%;
-            margin: 0 auto;
-            border-radius: 28px;
-            padding-left: 300px;
-            display: flex;
-            margin-bottom: 150px;
+           display: none;
         }
+        
         .top-one-special img {
             padding-left: 12px;
             padding-top: 15px;
             width: 100px;
         }
         .top-one-special img {
+            border-radius: 5px;
             padding-left: 12px;
             padding-top: 15px;
             width: 100%;
         }
         .top-three-players {
+            border-radius: 5px;
             display: grid;
             grid-template-columns: repeat(1, 1fr);
-            margin-left: 10%;
+            margin-left: 40px;
             margin-right: 10%;
             margin-top: 40px;
-            margin-left: 30px;
+            margin-left: 40px;
             width: 100px;
+        }
+        .footer-top-logo img{
+            margin-top: 80px;
+            margin-left: 150px;
+            height: 80px;
+            width: 150px;
+        }
+        .footer-sociel-icon{
+            font-size: 20px;
+            text-align: center;
         }
         .copyright-text {
             font-size: 17px;
