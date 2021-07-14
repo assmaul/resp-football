@@ -207,5 +207,20 @@ h1{
 /* extrs section-no two end  */
 
 /* <!-- sectopn-last footer start --> */
-
+.footer-top-logo img{
+    margin-top: 80px;
+    margin-left: 435px;
+    height: 200px;
+    width: 400px;
+}
+.footer-sociel-icon{
+    font-size: 20px;
+    text-align: center;
+}
+.copyright-text{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
 /* <!-- sectopn-last footer end --> */
