@@ -75,6 +75,9 @@ h1{
     padding-bottom: 5px;
     padding-top: 5px;
 }
+.player p{
+    color: rgb(165, 156, 156);
+}
 /* <!-- player ditail section end  --> */
 
 /* section player next start */
