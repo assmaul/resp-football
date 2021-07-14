@@ -34,6 +34,10 @@ h1{
     border-radius: 5px;
     margin-top: 20px;
 }
+.button:hover{
+    color: orange;
+    font-size: 18px;
+}
 .one-sec{
     color: white;
     padding-top: 50px;
@@ -72,3 +76,41 @@ h1{
     padding-top: 5px;
 }
 /* <!-- player ditail section end  --> */
+
+/* section player next start */
+.section-player-next{
+    display: flex;
+    margin-top: 60px;
+    margin-left: 10%;
+    width: 86%;
+}
+h1{
+    font-size: 40px;
+}
+.button{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(rgb(163, 41, 41), red );
+    padding: 10px 30px;
+    font-weight: 700;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.button:hover{
+    color: orange;
+    font-size: 18px;
+}
+.next-sec{
+    color: black;
+    padding-top: 50px;
+    padding-left: 4%; 
+    width: 50%
+}
+.top-other{
+    margin-top: 25px;
+}
+.next-sec img{
+    padding-top: 40px;
+    width: 80%;
+}
+/* section player next end */
