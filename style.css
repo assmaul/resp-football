@@ -60,14 +60,14 @@ h1{
 .players{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    margin-left: 10%;
+    margin-left: 5%;
     margin-right: 10%;
 }
 .all-players{
     margin-top: 22px;
 }
 .player img{
-    padding-left: 13px;
+    padding-left: 14px;
     padding-top: 15px;
     width: 250px;
 }
