@@ -122,3 +122,90 @@ h1{
     width: 80%;
 }
 /* section player next end */
+
+/* extrs section-no one staer  */
+.live-section{
+    margin-top: 100px;
+}
+.live-match{
+    box-shadow: none;
+}
+.point-bord{
+    text-align: center;
+    box-shadow: 5px 10px 40px #dedbdb;
+    padding: 3%;
+    width: 40%;
+    margin: 0 auto;
+    border-radius: 28px;
+    padding-left: 300px;
+    display: flex;
+    margin-bottom: 150px;
+}
+.width{
+    width: 25%;
+    box-shadow: 10px 10px 50px #dedbdb;
+    padding: 4%;
+    margin: 90px 10px;
+    border-radius: 30px;
+}
+.live-heading{
+    text-align: center;
+    font-size: 20px;
+}
+.live-match h2, p{
+    text-align: center;
+}
+/* extrs section-no one end  */
+
+/* extrs section-no two start  */
+.top-three-players-section{
+    margin-top: 22px;
+}
+.top-three-players-section h2{
+    text-align: center;
+    font-weight: 40px;
+}
+.top-three-players{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.top-one img{
+    padding-left: 13px;
+    padding-top: 15px;
+    width: 250px;
+}
+.top-one{
+    width: 80%;
+    box-shadow: 10px 10px 40px grey;
+    margin-top: 5%;
+    margin-left: 12%;
+    margin-right: 12%;
+    padding-left: 12px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    border-radius: 5px;
+}
+.top-one .top-one-special p{
+    color: rgb(165, 156, 156);
+}
+.top-one-special{
+    width: 80%;
+    box-shadow: 10px 10px 40px grey;
+    margin-top: 5%;
+    margin-left: 12%;
+    margin-right: 12%;
+    padding-left: 12px;
+    padding-bottom: 5px;
+}
+.top-one-special img{
+    padding-left: 13px;
+    padding-top: 15px;
+    width: 250px;
+}
+/* extrs section-no two end  */
+
+/* <!-- sectopn-last footer start --> */
+
+/* <!-- sectopn-last footer end --> */
